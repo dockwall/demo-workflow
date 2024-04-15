@@ -5,6 +5,7 @@
 .env
 config
 build
+dist
 node_modules
 coverage
 docker-compose.yaml
